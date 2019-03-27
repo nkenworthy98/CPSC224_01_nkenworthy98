@@ -142,7 +142,7 @@ public class motionparallax extends JFrame
 	  triangle1YValues[1] = (e.getY() - 305) + e.getY()/4;
 	  triangle1YValues[2] = (e.getY() - 105) + e.getY()/4;
 
-	  // Moves orange mountain as mouse moves
+	  // Moves orange mountain as mouse moves.
 	  triangle2XValues[0] = (e.getX() + 45) + e.getX()/4;
 	  triangle2XValues[1] = (e.getX() + 205) + e.getX()/4;
 	  triangle2XValues[2] = (e.getX() + 355) + e.getX()/4;
