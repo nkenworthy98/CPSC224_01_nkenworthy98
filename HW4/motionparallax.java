@@ -130,7 +130,7 @@ public class motionparallax extends JFrame
       
       public void mouseMoved(MouseEvent e)
       {
-	  // Moves grass as mouse moves
+	  // Moves grass as mouse moves.
 	  rectCurrentX = e.getX() - 5;
 	  rectCurrentY = e.getY() - 5;
 
